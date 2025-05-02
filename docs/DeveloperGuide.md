@@ -41,7 +41,7 @@
 ## **Acknowledgements**
  
 - This project is built upon [SE-Educations's AddressBook Level-3](https://se-education.org/addressbook-level3/).
-- I (Baizhou) used AI tool to generate codes in some places, but has checked it and compare it with own implementation before usage.
+- I (Baizhou) used AI tool to generate codes in some of the codes contributed, but has checked it and sometimes compare it with my own implementation before usage.
 
 ---
 
